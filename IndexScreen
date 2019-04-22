@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+   <html>
+     <head>
+         <meta charset="utf-8">
+         <title>Merciless Mercs Gunman Ranks</title>
+         <link href="rank.css" rel="stylesheet" type="text/css">
+         <style>
+             td {color: #200200;}
+         </style>
+     </head>
+     <body background="black.jpg">
+       <h1>Gunman Ranks</h1>
+       <table>
+           <tr><th>Key</th><th></th></tr>
+           <tr><td>#</td><td>Class Tag</td></tr>
+       </table>
+       <table>
+           <tr><th>|    Rank    |</th><th>|    Position Name    |</th><th>|     Tags Letters     |</th><th>|    Tag Letter    |</th></tr>
+           <tr><th></th><th></th><th>|1, 2, and 3|</th><th>|4|</th></tr>
+           <tr><td>1</td><td>Director</td><td>DRC</td><td>T</td></tr>
+           <tr><td>2</td><td>Gunman General</td><td>GNG</td><td>L</td></tr>
+           <tr><td>3</td><td><table>
+               <tr><td>Gunman Merc Leutenant</td></tr>
+               <tr><td>Gunman ODST Leutenant</td></tr>
+           </table></td><td><table>
+               <tr><td>GML</td></tr>
+               <tr><td>GOL</td></tr>
+           </table></td><td><table>
+               <tr><td>#</td></tr>
+               <tr><td>#</td></tr>
+           </table></td></tr>
+           <tr><td>4</td><td><table>
+               <tr><td>Gunman Merc Commander</td></tr>
+               <tr><td>Gunman ODST Commander</td></tr>
+           </table></td><td><table>
+               <tr><td>GMC</td></tr>
+               <tr><td>GOC</td></tr>
+           </table></td><td><table>
+               <tr><td>#</td></tr>
+               <tr><td>#</td></tr>
+           </table></td></tr>
+           <tr><td>Merc</td><td><table>
+              <tr><td>---------</td></tr>
+              <tr><td>5</td><td>Gunman Colonel</td></tr>
+              <tr><td>6</td><td>Gunman Squad Leader</td></tr>
+              <tr><td>7</td><td>Gunman Leutenant</td></tr>
+              <tr><td>8</td><td>Gunman Private</td></tr>
+           </table></td><td><table>
+               <tr><td>GMC</td><td>#</td></tr>
+              <tr><td>6</td><td>Gunman Squad Leader</td><td>GMS</td><td>#</td></tr>
+              <tr><td>7</td><td>Gunman Leutenant</td><td>GML</td><td>#</td></tr>
+              <tr><td>8</td><td>Gunman Private</td><td>GMP</td><td>#</td></tr></tr>
+           </table></td></tr>
+           <tr><td>ODST</td><td><table>
+              <tr><td>----------</td></tr>
+              <tr><td>5</td><td>Gunman Colonel</td><td>GOC</td><td>#</td></tr>
+              <tr><td>6</td><td>Gunman Squad Leader</td><td>GOS</td><td>#</td></tr>
+              <tr><td>7</td><td>Gunman Leutenant</td><td>GOL</td><td>#</td></tr>
+              <tr><td>8</td><td>Gunman Private</td><td>GOP</td><td>#</td></tr>
+              <tr><td>----------</td></tr>
+           </table></td></tr>
+           <tr><td>9</td><td>Sargent</td><td>GSG</td><td>#</td></tr>
+           <tr><td>10</td><td>Squad Leader</td><td>GSL</td><td>#</td></tr>
+           <tr><td>11</td><td>Staff Sargent</td><td>GSS</td><td>#</td></tr>
+           <tr><td>12</td><td>Private 1rst Class</td><td>GP1</td><td>#</td></tr>
+           <tr><td>13</td><td>Private 3rd Class</td><td>GP3</td><td>#</td></tr>
+           <tr><td>14</td><td>Trainee</td><td>GTN</td><td>#</td></tr>
+       </table>
+    </body>
+  </html>
